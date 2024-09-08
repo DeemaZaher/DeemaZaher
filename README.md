@@ -21,8 +21,8 @@ Arabic(Conversational), English(Native), French(Beginner), Italian(Intermediate)
 - <b>AWS WAF Project (Protecting a Web Application)</b>
   - [AWS WAF Project (Protecting a Web Application)](https://github.com/DeemaZaher/Lab)
   
-- <b>Active Directory Bulk User Creation</b>
-  - [Active Directory Bulk User Creation](https://github.com/deemazaher/url)
+- <b>Azure Sentinel HoneyPot Lab</b>
+  - [Azure Sentinel HoneyPot Lab](https://github.com/DeemaZaher/AzureSentinelHoneyPotLab)
 
 - <b>T-Pot Honeypot Project Using Elastic Stack</b>
   - [T-Pot Honeypot Project Using Elastic Stack](https://github.com/deemazaher/url)
