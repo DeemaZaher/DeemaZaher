@@ -14,10 +14,6 @@ My journey in Management Information Systems (MIS) has led me to develop a passi
 Arabic(Conversational), English(Native), French(Beginner), Italian(Intermediate), Spanish(Advanced), More Languages Soon...
 <h2>👩‍💻 Cybersecurity Projects:</h2>
 
-- <b>WebGoat Project (OWASP)</b>
-  - [WebGoat Project (OWASP)](https://github.com/DeemaZaher/URLproject)
-- <b>AzureGoat</b>
-  - [AzureGoat](https://github.com/DeemaZaher/URLproject)
 - <b>AWS WAF Project (Protecting a Web Application)</b>
   - [AWS WAF Project (Protecting a Web Application)](https://github.com/DeemaZaher/Lab)
   
