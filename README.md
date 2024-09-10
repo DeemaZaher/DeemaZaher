@@ -20,29 +20,26 @@ Arabic(Conversational), English(Native), French(Beginner), Italian(Intermediate)
 - <b>Azure Sentinel HoneyPot Lab</b>
   - [Azure Sentinel HoneyPot Lab](https://github.com/DeemaZaher/AzureSentinelHoneyPotLab)
 
-- <b>T-Pot Honeypot Project Using Elastic Stack</b>
-  - [T-Pot Honeypot Project Using Elastic Stack](https://github.com/deemazaher/url)
+- <b>T-Pot Honeypot Project Using Elastic Stack</b>(COMING SOON)
+  - [T-Pot Honeypot Project Using Elastic Stack](https://github.com/DeemaZaher)
 
-- <b>Detection Lab Using MITRE ATT&CK</b>
-  - [Detection Lab Using MITRE ATT&CK](https://github.com/DeemaZaher/url)
+- <b>Detection Lab Using MITRE ATT&CK</b>(COMING SOON)
+  - [Detection Lab Using MITRE ATT&CK](https://github.com/DeemaZaher)
 
-- <b>SOC Boss Project</b>
-  - [SOC Boss Project](https://github.com/DeemaZaher/url)
+- <b>SOC Boss Project</b>(COMING SOON)
+  - [SOC Boss Project](https://github.com/DeemaZaher)
 
-- <b>GoPhish With AWS</b>
-  - [GoPhish With AWS](https://github.com/DeemaZaher/url)
+- <b>GoPhish With AWS</b>(COMING SOON)
+  - [GoPhish With AWS](https://github.com/DeemaZaher)
 
-- <b>MemProcFS Project</b>
-  - [MemProcFS Project](https://github.com/DeemaZaher/url)
+- <b>Atomic Red Team Project</b>(COMING SOON)
+  - [Atomic Red Team Project](https://github.com/DeemaZaher)
 
-- <b>Atomic Red Team Project</b>
-  - [Atomic Red Team Project](https://github.com/DeemaZaher/url)
+- <b>MITRE Caldera</b>(COMING SOON)
+  - [MITRE Caldera](https://github.com/DeemaZaher)
 
-- <b>MITRE Caldera</b>
-  - [MITRE Caldera](https://github.com/DeemaZaher/url)
-
-- <b>Stratus Red Team Project</b>
-  - [Stratus Red Team Project](https://github.com/DeemaZaher/url)
+- <b>Stratus Red Team Project</b>(COMING SOON)
+  - [Stratus Red Team Project](https://github.com/DeemaZaher)
 
 <h2> 🤳 Connect with me:</h2>
 
