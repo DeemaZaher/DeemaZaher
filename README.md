@@ -13,12 +13,11 @@ My journey in Management Information Systems (MIS) has led me to develop a passi
 <h2> Spoken Languages:</h2>
 Arabic(Conversational), English(Native), French(Beginner), Italian(Intermediate), Spanish(Advanced), More Languages Soon...
 <h2>👩‍💻 Cybersecurity Projects:</h2>
-
-- <b>AWS WAF Project (Protecting a Web Application)</b>
-  - [AWS WAF Project (Protecting a Web Application)](https://github.com/DeemaZaher/Lab)
-  
 - <b>Azure Sentinel HoneyPot Lab</b>
   - [Azure Sentinel HoneyPot Lab](https://github.com/DeemaZaher/AzureSentinelHoneyPotLab)
+
+- <b>AWS WAF Project (Protecting a Web Application)</b>(COMING SOON)
+  - [AWS WAF Project (Protecting a Web Application)](https://github.com/DeemaZaher/Lab)
 
 - <b>T-Pot Honeypot Project Using Elastic Stack</b>(COMING SOON)
   - [T-Pot Honeypot Project Using Elastic Stack](https://github.com/DeemaZaher)
