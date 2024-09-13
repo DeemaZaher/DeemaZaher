@@ -13,6 +13,7 @@ My journey in Management Information Systems (MIS) has led me to develop a passi
 <h2> Spoken Languages:</h2>
 Arabic(Conversational), English(Native), French(Beginner), Italian(Intermediate), Spanish(Advanced), More Languages Soon...
 <h2>👩‍💻 Cybersecurity Projects:</h2>
+
 - <b>Azure Sentinel HoneyPot Lab</b>
   - [Azure Sentinel HoneyPot Lab](https://github.com/DeemaZaher/AzureSentinelHoneyPotLab)
   
