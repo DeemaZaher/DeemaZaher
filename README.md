@@ -15,15 +15,15 @@ Arabic(Conversational), English(Native), French(Beginner), Italian(Intermediate)
 <h2>👩‍💻 Cybersecurity Projects:</h2>
 - <b>Azure Sentinel HoneyPot Lab</b>
   - [Azure Sentinel HoneyPot Lab](https://github.com/DeemaZaher/AzureSentinelHoneyPotLab)
+  
+- <b>Detection Lab Using Azure Sentinel & MITRE ATT&CK</b>
+  - [Detection Lab Using MITRE ATT&CK](https://github.com/DeemaZaher/MITREATTACKDETECTIONAZURELAB)
 
 - <b>AWS WAF Project (Protecting a Web Application)</b>(COMING SOON)
   - [AWS WAF Project (Protecting a Web Application)](https://github.com/DeemaZaher/Lab)
 
 - <b>T-Pot Honeypot Project Using Elastic Stack</b>(COMING SOON)
   - [T-Pot Honeypot Project Using Elastic Stack](https://github.com/DeemaZaher)
-
-- <b>Detection Lab Using MITRE ATT&CK</b>(COMING SOON)
-  - [Detection Lab Using MITRE ATT&CK](https://github.com/DeemaZaher)
 
 - <b>SOC Boss Project</b>(COMING SOON)
   - [SOC Boss Project](https://github.com/DeemaZaher)
