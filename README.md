@@ -2,6 +2,15 @@
 <b>Objective</b>
 
 My journey in Management Information Systems (MIS) has led me to develop a passion for cybersecurity from my Networking & Security Infrastructure Elective Course, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+
+<h2><b>Community Involvement & Conferences:</b></h2>
+● Attended Incident Response Summit (2024)
+● Attended Commvault SHIFT and SimplyCyberCon (2023)
+● Led breakout room during Introduction to Burpsuite Workshop hosted by Amazon (2023)
+● Participant at SANS Institute Neurodiversity Summit (2023)
+● Participant and Moderator at The Diana Initiative Conference (March 2021)
+● Women in Cybersecurity, Women’s Society of Cyberjutsu & Participant at Day of Shecurity (March 2020 - June 2024)
+
 <h2><b>Certifications:</b></h2>
 -> Note: Right Click on each badge and Open in New Tab for verification and to make it easier to not lose the page. <-
 
