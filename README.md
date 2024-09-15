@@ -36,9 +36,6 @@ Arabic(Conversational), English(Native), French(Beginner), Italian(Intermediate)
 - <b>Detection Lab Using Azure Sentinel & MITRE ATT&CK</b>
   - [Detection Lab Using MITRE ATT&CK](https://github.com/DeemaZaher/MITREATTACKDETECTIONAZURELAB)
 
-- <b>AWS WAF Project (Protecting a Web Application)</b>(COMING SOON)
-  - [AWS WAF Project (Protecting a Web Application)](https://github.com/DeemaZaher/Lab)
-
 - <b>T-Pot Honeypot Project Using Elastic Stack</b>(COMING SOON)
   - [T-Pot Honeypot Project Using Elastic Stack](https://github.com/DeemaZaher)
 
