@@ -1,15 +1,9 @@
 <h1>Hi, I'm Deema! <br/><a href="https://linkedin.com/in/deemazaher"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></h1>
 <b>Objective</b>
 
-My journey in Management Information Systems (MIS) has led me to develop a passion for cybersecurity from my Networking & Security Infrastructure Elective Course, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in Management Information Systems (MIS) has led me to develop a passion for cybersecurity from my Networking & Security Infrastructure Elective Course, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. Below you will find a few projects I am working on and that I have worked on.
 
-<h2><b>Community Involvement & Conferences:</b></h2>
-● Attended Incident Response Summit (2024)
-● Attended Commvault SHIFT and SimplyCyberCon (2023)
-● Led breakout room during Introduction to Burpsuite Workshop hosted by Amazon (2023)
-● Participant at SANS Institute Neurodiversity Summit (2023)
-● Participant and Moderator at The Diana Initiative Conference (March 2021)
-● Women in Cybersecurity, Women’s Society of Cyberjutsu & Participant at Day of Shecurity (March 2020 - June 2024)
+
 
 <h2><b>Certifications:</b></h2>
 -> Note: Right Click on each badge and Open in New Tab for verification and to make it easier to not lose the page. <-
@@ -19,6 +13,19 @@ My journey in Management Information Systems (MIS) has led me to develop a passi
 [![GIAC GCIH](https://img.shields.io/badge/GIAC%20GCIH-Validated-red)](https://www.credly.com/badges/2f1ca424-0f51-406f-bf2c-17f031606428)
 [![Google Cloud Certified Associate Cloud Engineer](https://img.shields.io/badge/Google%20Cloud%20Certified%20Associate%20Cloud%20Engineer-Validated-brightgreen)](https://google.accredible.com/f0004dc0-20b0-4c4b-b2bd-35d551b5d5dc)
 
+<h2><b>Community Involvement & Conferences:</b></h2>
+
+● Attended Incident Response Summit (2024)
+
+● Attended Commvault SHIFT and SimplyCyberCon (2023)
+
+● Led breakout room during Introduction to Burpsuite Workshop hosted by Amazon (2023)
+
+● Participant at SANS Institute Neurodiversity Summit (2023)
+
+● Participant and Moderator at The Diana Initiative Conference (March 2021)
+
+● Women in Cybersecurity, Women’s Society of Cyberjutsu & Participant at Day of Shecurity (March 2020 - June 2024)
 <h2> Spoken Languages:</h2>
 Arabic(Conversational), English(Native), French(Beginner), Italian(Intermediate), Spanish(Advanced), More Languages Soon...
 <h2>👩‍💻 Cybersecurity Projects:</h2>
