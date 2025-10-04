@@ -39,9 +39,6 @@ Arabic(Native), English(Native), French(Beginner), Italian(Intermediate), Spanis
 - <b>T-Pot Honeypot Project Using Elastic Stack</b>(COMING SOON)
   - [T-Pot Honeypot Project Using Elastic Stack](https://github.com/DeemaZaher)
 
-- <b>SOC Boss Project</b>(COMING SOON)
-  - [SOC Boss Project](https://github.com/DeemaZaher)
-
 - <b>GoPhish With AWS</b>(COMING SOON)
   - [GoPhish With AWS](https://github.com/DeemaZaher)
 
