@@ -27,7 +27,7 @@ My journey in Management Information Systems (MIS) has led me to develop a passi
 
 ● Women in Cybersecurity, Women’s Society of Cyberjutsu & Participant at Day of Shecurity (March 2020 - June 2024)
 <h2> Spoken Languages:</h2>
-Arabic(Conversational), English(Native), French(Beginner), Italian(Intermediate), Spanish(Advanced), More Languages Soon...
+Arabic(Native), English(Native), French(Beginner), Italian(Intermediate), Spanish(Advanced), More Languages Soon...
 <h2>👩‍💻 Cybersecurity Projects:</h2>
 
 - <b>Azure Sentinel HoneyPot Lab</b>
